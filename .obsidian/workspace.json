@@ -240,8 +240,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1945bc204c6add8d",
+  "active": "1fb526539fb2f797",
   "lastOpenFiles": [
+    "prueba2",
+    "Sin nombre 1",
     "hola",
     "Nota de prueba.md",
     "Sin título.canvas",
@@ -276,8 +278,6 @@
     "Bussines360/Coolaboradores",
     "Bussines360/Configuracion/Usuarios",
     "Bussines360/Configuracion/Roles",
-    "Bussines360/Configuracion",
-    "Bussines360/Loggin",
-    "Bussines360/Arquitectura"
+    "Bussines360/Configuracion"
   ]
 }
